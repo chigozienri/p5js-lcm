@@ -2165,10 +2165,10 @@ regexp.prototype.flags@^1.5.1:
     define-properties "^1.2.0"
     set-function-name "^2.0.0"
 
-replicate@^0.21.1:
-  version "0.21.1"
-  resolved "https://registry.yarnpkg.com/replicate/-/replicate-0.21.1.tgz#8e1a69ee61ecb1dc27bda466d1a1b34158aaf16b"
-  integrity sha512-ftR416+tuD55u6Rz0s5QsxoC2ZasslyFg9jxytirPhqFQwTQy9arU0vF29811t4iws8cMc+neL0IUzyq0pFlkQ==
+replicate@^0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/replicate/-/replicate-0.25.0.tgz#e072cbf157f6e44de0e835d67df2ef1a63eb6750"
+  integrity sha512-drD+K9xwoSldIrU/zOg+CPu5kXMUhTkXyJEA3GUozxQ67aqftvDhyYYjiBD2zaCb1GKA4+w/zIc6+ITV5OlkKQ==
 
 resolve-from@^4.0.0:
   version "4.0.0"
